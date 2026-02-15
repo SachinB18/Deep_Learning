@@ -3,8 +3,6 @@
 This repository contains lab assignments and projects for the Deep Learning course.
 
 **Course:** Deep Learning  
-**Institution:** [Your Institution Name]  
-**Academic Year:** 2025-2026
 
 ---
 
@@ -56,16 +54,10 @@ This repository contains lab assignments and projects for the Deep Learning cour
 
 ---
 
-## 📝 License
-
-This project is for educational purposes.
-
----
-
 ## 👤 Author
 
-**[Your Name]**  
-- GitHub: [@your-username](https://github.com/your-username)
+**[Sachin Bhabad]**  
+- GitHub: [SachinB18](https://github.com/SachinB18)
 
 ---
 
@@ -75,4 +67,4 @@ This is a personal learning repository. Feel free to fork and use for educationa
 
 ---
 
-**Last Updated:** February 14, 2026
+
