@@ -65,15 +65,13 @@ pip install tensorflow keras numpy matplotlib seaborn scikit-learn
 ## Google Colab Notebook
 You can access and run this project directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([Insert Link to Your Colab Notebook Here])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[Insert Link to Your Colab Notebook Here]](https://colab.research.google.com/drive/1ZexlcRCm-gkfQOvnkfkk7_Hd-cH-UgZx#scrollTo=4945b522))
 
 ## Author
 -   **Student Name:** Sachin Bhabad
 -   **PRN:** 202301040282
 -   **Group Members:** Sachin Bhabad, Omkar Khilare, Vivek Borade, Samadhan Mane
 
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## References
 1.  **Tan, M., & Le, Q. V. (2019).** "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks." ICML 2019. [Paper](https://arxiv.org/abs/1905.11946)
