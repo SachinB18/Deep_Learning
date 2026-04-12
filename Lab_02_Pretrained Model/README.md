@@ -65,7 +65,7 @@ pip install tensorflow keras numpy matplotlib seaborn scikit-learn
 ## Google Colab Notebook
 You can access and run this project directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[Insert Link to Your Colab Notebook Here]](https://colab.research.google.com/drive/1ZexlcRCm-gkfQOvnkfkk7_Hd-cH-UgZx#scrollTo=4945b522))
+[![Open In Colab] (https://colab.research.google.com/drive/1ZexlcRCm-gkfQOvnkfkk7_Hd-cH-UgZx#scrollTo=4945b522)
 
 ## Author
 -   **Student Name:** Sachin Bhabad
