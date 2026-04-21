@@ -78,10 +78,4 @@ The notebook is organized step by step:
 - Recall: **0.8993**
 - F1-score: **0.9273**
 
-## Notes for Submission
-- Do not upload virtual environment folders (`.venv`, `venv`, `.venu`, `venu`).
-- Commit notebook, README, requirements, and .gitignore.
-- Ensure notebook outputs are saved if your instructor expects executed results.
 
-## Author
-Student assignment repository.
